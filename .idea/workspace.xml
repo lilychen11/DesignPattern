@@ -14,39 +14,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Duck.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/Duck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/DuckTestDrive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/GumballMachine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/GumballMachineRemote.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/GumballMachineTestDrive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/GumballMachine_Stub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/GumballMonitor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/GumballMonitorTestDrive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/HasQuarterState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/ImageComponent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/ImageProxy$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/ImageProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/ImageProxyTestDrive$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/ImageProxyTestDrive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/META-INF/DesignPattern.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/MallardDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/MatchMakingTestDrive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/MyRemote.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/MyRemoteClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/MyRemoteImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/NoQuarterState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/NonOwnerInvocationHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/OwnerInvocationHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/PersonBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/PersonBeanImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/SerializationDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/SoldOutState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/SoldState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/State.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/Turkey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/TurkeyAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/WildTurkey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/WinnerState.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Duck.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DuckTestDrive.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/GumballMachine.java" afterDir="false" />
@@ -247,7 +214,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565608474677" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565608606634" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
